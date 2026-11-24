@@ -1,7 +1,6 @@
-CALENDÁRIO CAC 2027 — VERSÃO 8.0
-
-Substitua TODOS os arquivos no mesmo diretório GitHub Pages (incluindo apple-touch-icon.png). Não mude o endereço nem o projeto Supabase.
-A versão abre no Calendário; use as abas inferiores para Aniversariantes e Configurações. O calendário principal mantém as categorias e os aniversários após autorização. O administrador encontra o painel em Configurações.
-Para atualizar o ícone no iPhone, se o antigo persistir, remova apenas o atalho da tela de início e adicione novamente pelo Safari. Antes disso, exporte os eventos pessoais se necessário, e confira o estado das notificações após reinstalar.
-As notificações exigem HTTPS, permissão e instalação na tela de início no iOS 16.4+. Confirme com Enviar teste.
-Sem serviços pagos ou alteração de banco.
+Calendário CAC 2027 v9.0
+Substitua todos os arquivos na raiz do repositório.
+Acesso automático para contas com email confirmado, exceto bloqueadas/recusadas/removidas.
+Eventos coletivos: qualquer conta ativa pode adicionar; apenas administradores editam ou excluem.
+Eventos pessoais: armazenados no dispositivo por conta, notificações sincronizadas quando ativadas.
+Aniversários carregados do Supabase. Não há dados pessoais no pacote público.
