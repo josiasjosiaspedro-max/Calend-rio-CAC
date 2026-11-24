@@ -1,0 +1,7 @@
+CALENDÁRIO CAC 2027 — VERSÃO 7.0
+
+Extraia o ZIP e substitua os arquivos no mesmo diretório do GitHub Pages. Use HTTPS.
+A conta previamente autorizada no Supabase é a administradora inicial. Outros profissionais criam conta, confirmam o e-mail, retornam para entrar e enviam a solicitação. O administrador aprova pelo painel.
+Configuração de Auth: adicione a URL HTTPS exata do Calendário CAC à lista de Redirect URLs no Supabase (Authentication > URL Configuration), sem alterar a URL padrão dos outros aplicativos. O cadastro pode redirecionar ao site padrão do projeto; depois de confirmar, retorne ao Calendário CAC e entre. Recuperação de senha usa a URL do aplicativo.
+Notificações: em iOS 16.4+ adicionar à tela de início; ativar avisos e testar. Eventos pessoais são locais por conta/dispositivo e sincronizados para lembretes quando habilitados. O plano gratuito tem limites e o envio não é garantido pelo sistema operacional.
+Remover acesso não exclui a conta compartilhada com outros aplicativos.
