@@ -1,6 +1,6 @@
-Calendário CAC 2027 v9.0
-Substitua todos os arquivos na raiz do repositório.
-Acesso automático para contas com email confirmado, exceto bloqueadas/recusadas/removidas.
-Eventos coletivos: qualquer conta ativa pode adicionar; apenas administradores editam ou excluem.
-Eventos pessoais: armazenados no dispositivo por conta, notificações sincronizadas quando ativadas.
-Aniversários carregados do Supabase. Não há dados pessoais no pacote público.
+Calendário CAC 2027 – versão 10.0
+Substitua todos os arquivos na raiz do mesmo repositório GitHub Pages.
+Atualização visual sobre a 9.1, mantendo autenticação, permissões e notificações.
+Logomarca original preservada; ícone do aplicativo mantido.
+Não é necessário alterar Supabase.
+Endereço: https://josiasjosiaspedro-max.github.io/Calend-rio-CAC/
