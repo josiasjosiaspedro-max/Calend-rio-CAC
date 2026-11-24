@@ -1,7 +1,7 @@
-CALENDÁRIO CAC 2027 — VERSÃO 7.0
+CALENDÁRIO CAC 2027 — VERSÃO 8.0
 
-Extraia o ZIP e substitua os arquivos no mesmo diretório do GitHub Pages. Use HTTPS.
-A conta previamente autorizada no Supabase é a administradora inicial. Outros profissionais criam conta, confirmam o e-mail, retornam para entrar e enviam a solicitação. O administrador aprova pelo painel.
-Configuração de Auth: adicione a URL HTTPS exata do Calendário CAC à lista de Redirect URLs no Supabase (Authentication > URL Configuration), sem alterar a URL padrão dos outros aplicativos. O cadastro pode redirecionar ao site padrão do projeto; depois de confirmar, retorne ao Calendário CAC e entre. Recuperação de senha usa a URL do aplicativo.
-Notificações: em iOS 16.4+ adicionar à tela de início; ativar avisos e testar. Eventos pessoais são locais por conta/dispositivo e sincronizados para lembretes quando habilitados. O plano gratuito tem limites e o envio não é garantido pelo sistema operacional.
-Remover acesso não exclui a conta compartilhada com outros aplicativos.
+Substitua TODOS os arquivos no mesmo diretório GitHub Pages (incluindo apple-touch-icon.png). Não mude o endereço nem o projeto Supabase.
+A versão abre no Calendário; use as abas inferiores para Aniversariantes e Configurações. O calendário principal mantém as categorias e os aniversários após autorização. O administrador encontra o painel em Configurações.
+Para atualizar o ícone no iPhone, se o antigo persistir, remova apenas o atalho da tela de início e adicione novamente pelo Safari. Antes disso, exporte os eventos pessoais se necessário, e confira o estado das notificações após reinstalar.
+As notificações exigem HTTPS, permissão e instalação na tela de início no iOS 16.4+. Confirme com Enviar teste.
+Sem serviços pagos ou alteração de banco.
