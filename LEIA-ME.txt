@@ -1,6 +1,6 @@
-Calendário CAC 2027 – versão 10.0
-Substitua todos os arquivos na raiz do mesmo repositório GitHub Pages.
-Atualização visual sobre a 9.1, mantendo autenticação, permissões e notificações.
-Logomarca original preservada; ícone do aplicativo mantido.
-Não é necessário alterar Supabase.
+Calendário CAC 2027 — versão 11
+Substitua index.html, sw.js e manifest.json na raiz do repositório GitHub Pages. Os demais arquivos são fornecidos sem alteração.
 Endereço: https://josiasjosiaspedro-max.github.io/Calend-rio-CAC/
+Sessão persistente, renovação automática e recuperação após falhas de rede; permissões iguais para contas aprovadas e histórico coletivo. Não há alteração de plano ou contratação.
+O botão Google depende da configuração do provedor Google no Supabase e da URL de redirecionamento autorizada. Se não estiver configurado, utilize e-mail e senha.
+Teste após publicar: entre, feche e abra o app; desligue e religue a rede; confira eventos e notificações. Pode ser necessário entrar uma última vez após a atualização. A sessão continua sujeita à revogação ou limpeza de armazenamento pelo navegador.
